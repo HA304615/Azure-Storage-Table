@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Azure Table App\AzureTableApp\AzureTableApp\bin\Debug\AzureTableApp.exe.config
+C:\Users\user\Desktop\Azure Table App\AzureTableApp\AzureTableApp\bin\Debug\AzureTableApp.exe
+C:\Users\user\Desktop\Azure Table App\AzureTableApp\AzureTableApp\bin\Debug\AzureTableApp.pdb
+C:\Users\user\Desktop\Azure Table App\AzureTableApp\AzureTableApp\obj\Debug\AzureTableApp.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Azure Table App\AzureTableApp\AzureTableApp\obj\Debug\AzureTableApp.Properties.Resources.resources
+C:\Users\user\Desktop\Azure Table App\AzureTableApp\AzureTableApp\obj\Debug\AzureTableApp.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Azure Table App\AzureTableApp\AzureTableApp\obj\Debug\AzureTableApp.exe
+C:\Users\user\Desktop\Azure Table App\AzureTableApp\AzureTableApp\obj\Debug\AzureTableApp.pdb
+C:\Users\user\Desktop\Azure Table App\AzureTableApp\AzureTableApp\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\user\Desktop\Azure Table App\AzureTableApp\AzureTableApp\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\user\Desktop\Azure Table App\AzureTableApp\AzureTableApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Azure Table App\AzureTableApp\AzureTableApp\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\user\Desktop\Azure Table App\AzureTableApp\AzureTableApp\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\user\Desktop\Azure Table App\AzureTableApp\AzureTableApp\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\user\Desktop\Azure Table App\AzureTableApp\AzureTableApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Azure Table App\AzureTableApp\AzureTableApp\obj\Debug\AzureTableApp.Form1.resources
